@@ -18,8 +18,4 @@ Our passion for teaching in general, and programming in particular has led to va
 
 ![about](../images/bg_logo.png)
 
-### Rahgu Ugare
-Raghu is passionate about getting people to love math, science and programming. He is fond of books, movies, music, fonts, exploring different programming paradigms and languages, and can be frequently found experimenting on numbers, algorithms and patterns using Mathematica. He has experience designing and developing SOA-based platforms for clients in Europe, US & the Middle East.
 
-### Vijay Anant
-Vijay has a passion for technology and teaching. He has also volunteered to teach during his free time, and has a penchant for history, anime, and poetry. Generally interested in technology as a whole, has occasionally fiddled with many programming languages and tech. His expertise lies in SOA and related integration technologies. Vijay has consulted for many major clients in India and Europe.
