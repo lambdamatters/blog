@@ -1,5 +1,5 @@
 +++
-title = "Rahgu Ugare"
+title = "Raghu Ugare"
 type = "team"
 +++
 
